@@ -1,16 +1,16 @@
 ## Hi there 👋
 
-<!--
-**Tenzz01/Tenzz01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I’m Jyoti, a passionate **frontend developer** based in India.
 
-Here are some ideas to get you started:
+I design and build whatever I can imagine.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stacks is html, css, javascript, react, tailwind. My favourite productivity tools are obsidian, figma. 
+ 
+## About Me
+I am a self-motivated learner who loves creating **user-friendly and responsive web interfaces**. I enjoy turning ideas into interactive websites and continuously improving my coding and design skills.  
+ 
+
+---
+
+✨ **Let’s build, learn, and grow together!**
+
